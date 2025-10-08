@@ -1,0 +1,11 @@
+Copyright (c) 2025 [MECHA]. Tutti i diritti riservati.
+
+Il presente software è fornito esclusivamente per uso personale e non commerciale.
+È vietato copiare, modificare, distribuire, decompilare, disassemblare o utilizzare in tutto o in parte
+il codice sorgente, l’eseguibile o qualsiasi parte del software senza autorizzazione scritta dell’autore.
+
+Il software viene fornito "così com'è", senza garanzia di alcun tipo, espressa o implicita,
+inclusa ma non limitata alle garanzie di commerciabilità, idoneità per un particolare scopo
+e non violazione di diritti altrui.
+
+Qualsiasi utilizzo non autorizzato sarà perseguito nei termini di legge.
