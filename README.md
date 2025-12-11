@@ -1,36 +1,33 @@
 # MECHA
-- Perche ho creato MECHA
-- I quattro moduli dell applicazione
-  - Fluidi
-  - HVAC
-  - Vapore e condensa
-  - Gas Compressi
-  - Ulteriori applicativi futuri
-- Lingua, prova gratuita e sottoscrizione
-- Licenze e acquisto (Lemon Squeezy)
-- Download e feedback
 
----
+## Cosa è MECHA
+MECHA è un software scritto in Python che mi aiuta nei calcoli quotidiani della mia professione da termotecnico. 
+
 ## Perchè ho creato MECHA
-MECHA è un software che ho sviluppato per cercare di semplificare la mia vita da professionista termotecnico.
-L'idea di base è accentrare in un unico ambiente tutti i fogli di calcoli, tool online, calcolatrici varie che ho in giro nel computer, internet o sulla scrivania.
+Ho voluto accentrare in un unico ambiente tutti i fogli di calcoli, tool online, schede varie salvate in giro nel computer o trovate su internet.
 
-L'ho pensato come uno strumento da tenere aperto mentre si lavora affiancato a carta, penna, fogli Excel e agli altri software che vengono usati nel quotidiano.
+L'ho pensato come uno strumento da tenere aperto mentre si lavora sui software di disegno più noti (per una distribuzione idronica o per la redazione di un P&ID) o mentre si scrive una relazione tecnica. 
+
+Vuole essere un unico ambiente dove trovare tutte le formule e la teoria necessaria per sopravvivere nel mondo della termotecnica.
 
 È un software che nasce da esigenze molto concrete in quanto io stesso lo utilizzo nel quotidiano. Pertanto, molte scelte grafiche e di interfaccia sono state effettuate cercando di rendere l'applicazione quanto più ergonomica possibile.
+
+Gli ambienti coperti da questo software sono: Fluidica, HVAC, Vapore e Condensa, Gas Compressi.
+
+Il software è ancora in beta e in fase attiva di programmazione.
 
 ---
 
 ### Dati tecnici modificabili
-L'applicazione si basa su librerire in **JSON**. Queste sono ampiamente modificabili dall'utente sfruttando un editor di testo o direttamente il *tool* presente all'interno di **MECHA** che elimina la necessità di conoscere l'ortografia dei file **.JSON**. Le librerie, pertanto, possono essere editate, esportate, importate e condivise con gli altri utenti. 
+L'applicazione si basa su librerie scritte in **JSON**. Queste sono ampiamente modificabili dall'utente sfruttando un editor di testo o direttamente il *tool* presente all'interno di **MECHA** che elimina la necessità di conoscere l'ortografia dei file **.JSON**. Le librerie, pertanto, possono essere editate, esportate, importate e condivise con gli altri utenti. 
 
-In pratica ogni tecnico può costruirsi il proprio "set di lavoro" all'inizio e poi riutilizzarlo nei progetti successivi.
+In pratica ogni tecnico può costruirsi il proprio "set di lavoro" all'inizio e poi riutilizzarlo nei progetti successivi e condividere il set stesso con gli altri colleghi di lavoro.
 
 ### Teoria fisica e trasparenza dei calcoli
 
 Da ingegnere, so benissimo la necessità morbosa di conoscere la fisica e la teoria alla base di ogni calcolo e formula (come anche i requisiti al contorno che la rendono valida).
 
-L'obiettivo è che ogni applicativo venga arricchito da teoria, esplicitando le formule usate e citando le fonti utilizzate (manuali di termodinamica, documenti tecnici e, dove ha senso, norme e standard).
+L'obiettivo è che ogni applicativo presente in **MECHA** venga arricchito da teoria, esplicitando le formule usate e citando le fonti utilizzate (manuali di termodinamica, documenti tecnici e, dove ha senso, norme e standard).
 
 In questo modo è possibile usare l'applicazione con più coscienza e non come una scatola nera che fa magie.
 
@@ -47,6 +44,7 @@ In questo modulo ci sono tutti gli applicativi che riguardano il mondo dei fluid
 È possibile:
 
 - dimensionare tubazioni (in funzione di portata, velocità, perdita di carico, potenza);
+- calcolare le perdite di carico (distribuite e concentrate);
 - calcolare kV di valvole di regolazione degli skid di controllo;
 - effettaure computi metrici (per massa/lunghezza di tubazioni, per superficie di isolamento e finitura esterna);
 - dimensionare organi di centrale (valvole di sicurezza, accumuli, vasi di espansione, collettori...)
@@ -95,8 +93,7 @@ Tra queste posso già elencare:
 
 - supporto multilingua (attualmente il software è in italiano ma la prossima lingua prioritaria sarà ovviamente l'inglese - ulteriori lingue seguiranno in funzione delle necessità);
 - supporto per più unità di misura (attualmente l'applicazione usa il Sistema Internazionale); 
-- aggiunta di funzionalità per l'esportazione di report in PDF o .RTF con modifica puntuale da parte dei singoli studi tecnici (loghi aziendali, carta intestata, etc.); 
-
+- aggiunta di funzionalità per l'esportazione di report in PDF o .RTF con personalizzazione da parte dei singoli studi tecnici (loghi aziendali, carta intestata, etc.); 
 
 ## Acquisto, prova gratuita e sottoscrizione
 
@@ -105,8 +102,8 @@ L'applicazione può essere scaricata gratuitamente in questa pagina di GitHub ma
 Per l'acquisto delle licenze mi appoggio a **Lemon Squeezy**.  
 Il flusso è piuttosto lineare: 
 
- 1. Segui il link allo store di Lemon Squeezy;
- 2. Scegli il modulo più adatto o l'intera applicazione;
+ 1. Accedi allo store di Lemon Squeezy usando il link evidenziato;
+ 2. Scegli il modulo più adatto o il bundle per l'intera applicazione;
  3. Completi il pagamento;
  4. Ricevi una licenza al tuo indirizzo email.
 
@@ -120,7 +117,7 @@ All'interno dell'applicazione è presente una sezione dedicata alla **gestione d
 Acquista o attiva la licenza MECHA su Lemon Squeezy:
 https://INSERISCI_LINK_STORE_LEMONSQUEEZY
 
-Puoi provare l'applicazione gratuitamente per **7 giorni**. Durante la trial puoi utilizzare MECHA senza limitazioni funzionali.
+Puoi provare l'applicazione gratuitamente per **7 giorni**. Durante la trial puoi utilizzare MECHA.
 
 Alla fine del periodo di prova, viene effettuato il pagamento che dà inizio alla sottoscrizione mensile.  
 
@@ -138,7 +135,7 @@ Se mentre lo utilizzi ti viene voglia di:
 - proporre un nuovo tool;
 - suggerire un miglioramento dell'interfaccia o dei flussi;
 
-puoi aprire una issue qui su GitHub o scrivermi direttamente.
+puoi aprire una *issue* qui su GitHub o scrivermi direttamente.
 
 Il progetto cresce molto grazie all'uso reale e ai commenti di altri voi colleghi. Ogni feedback mi aiuta a capire meglio cosa funziona, cosa è superfluo e dove vale la pena investire tempo per rendere MECHA uno strumento piu utile e piacevole da usare nel lavoro quotidiano.
 
