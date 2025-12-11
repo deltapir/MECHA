@@ -16,8 +16,6 @@ Gli ambienti coperti da questo software sono: Fluidica, HVAC, Vapore e Condensa,
 
 Il software è ancora in beta e in fase attiva di programmazione.
 
----
-
 ### Dati tecnici modificabili
 L'applicazione si basa su librerie scritte in **JSON**. Queste sono ampiamente modificabili dall'utente sfruttando un editor di testo o direttamente il *tool* presente all'interno di **MECHA** che elimina la necessità di conoscere l'ortografia dei file **.JSON**. Le librerie, pertanto, possono essere editate, esportate, importate e condivise con gli altri utenti. 
 
@@ -30,8 +28,6 @@ Da ingegnere, so benissimo la necessità morbosa di conoscere la fisica e la teo
 L'obiettivo è che ogni applicativo presente in **MECHA** venga arricchito da teoria, esplicitando le formule usate e citando le fonti utilizzate (manuali di termodinamica, documenti tecnici e, dove ha senso, norme e standard).
 
 In questo modo è possibile usare l'applicazione con più coscienza e non come una scatola nera che fa magie.
-
----
 
 ## I quattro moduli dell applicazione
 
@@ -122,8 +118,6 @@ Puoi provare l'applicazione gratuitamente per **7 giorni**. Durante la trial puo
 Alla fine del periodo di prova, viene effettuato il pagamento che dà inizio alla sottoscrizione mensile.  
 
 Per licenze personsalizzate (più utenti per licenze contemporaneamente), scrivimi in privato.
-
----
 
 ## Download, aggiornamenti e feedback
 
