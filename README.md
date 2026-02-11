@@ -6,7 +6,7 @@ MECHA è un software scritto in Python che mi aiuta nei calcoli quotidiani della
 ## Perchè ho creato MECHA
 Ho voluto accentrare in un unico ambiente tutti i fogli di calcoli, tool online, schede varie salvate in giro nel computer o trovate su internet.
 
-L'ho pensato come uno strumento da tenere aperto mentre si lavora sui software di disegno più noti (per una distribuzione idronica o per la redazione di un P&ID) o mentre si scrive una relazione tecnica. 
+L'ho pensato come uno strumento da tenere aperto mentre si lavora sui software più noti (per una distribuzione idronica o per la redazione di un P&ID) o mentre si scrive una relazione tecnica. 
 
 Vuole essere un unico ambiente dove trovare tutte le formule e la teoria necessaria per sopravvivere nel mondo della termotecnica.
 
@@ -51,8 +51,9 @@ In questo modulo ci sono tutti gli applicativi che riguardano il mondo della ven
 
 È possibile:
 
-- dimensionare canali (rettangolari e circolari) in funzione di portata, velocità, perdita di carico;
+- dimensionare canali (rettangolari e circolari) in funzione di velocità e perdita di carico;
 - effettuare computi metrici (per massa/superficie di lamiera, superficie di isolamento e finitura esterna);
+- calcolare proprietà psicrometriche e visualizzare i punti su un diagramma psicrometrico interattivo;
 
 Sono in fase di sviluppo i seguenti applicativi:
 
@@ -68,7 +69,7 @@ In questo modulo ci sono tutti gli applicativi che riguardano il mondo del vapor
 Sarà possibile: 
 
 - dimensionare le tubazioni per il vapore e la condensa; 
-- dimensionare il vapore di flash;
+- dimensionare il vapore di flash e le reti di recupero condensa;
 - dimensionare gli organi di linea;
 
 ### 4. Gas Compressi *[modulo in fase di progettazione]*
@@ -90,34 +91,11 @@ Tra queste posso già elencare:
 - supporto multilingua (attualmente il software è in italiano ma la prossima lingua prioritaria sarà ovviamente l'inglese - ulteriori lingue seguiranno in funzione delle necessità);
 - supporto per più unità di misura (attualmente l'applicazione usa il Sistema Internazionale); 
 - aggiunta di funzionalità per l'esportazione di report in PDF o .RTF con personalizzazione da parte dei singoli studi tecnici (loghi aziendali, carta intestata, etc.); 
+- convertitore di unità di misura;
 
 ## Acquisto, prova gratuita e sottoscrizione
 
-L'applicazione può essere scaricata gratuitamente in questa pagina di GitHub ma è necessaria una licenza per poter usarla.
-
-Per l'acquisto delle licenze mi appoggio a **Lemon Squeezy**.  
-Il flusso è piuttosto lineare: 
-
- 1. Accedi allo store di Lemon Squeezy usando il link evidenziato;
- 2. Scegli il modulo più adatto o il bundle per l'intera applicazione;
- 3. Completi il pagamento;
- 4. Ricevi una licenza al tuo indirizzo email.
-
-Per poter acquistare più singoli moduli è necessario effettuare fare più acquisti separati e aggiungere le licenze generate nell'applicazione.
-
-In via predefinita, una singola licenza può essere usata su un unico dispositivo alla volta. La singola licenza può essere inserita in un altro dispositivo ma il sistema disabiliterà automaticamente il primo dispositivo. 
-
-All'interno dell'applicazione è presente una sezione dedicata alla **gestione delle licenze**. Da lì è possibile inserire la licenza (o le licenze), verificarne lo stato e controllare che tutto sia attivo e in regola.
-
-**Link per l'acquisto della licenza:**
-Acquista o attiva la licenza MECHA su Lemon Squeezy:
-https://INSERISCI_LINK_STORE_LEMONSQUEEZY
-
-Puoi provare l'applicazione gratuitamente per **7 giorni**. Durante la trial puoi utilizzare MECHA.
-
-Alla fine del periodo di prova, viene effettuato il pagamento che dà inizio alla sottoscrizione mensile.  
-
-Per licenze personsalizzate (più utenti per licenze contemporaneamente), scrivimi in privato.
+L'applicazione può essere scaricata gratuitamente in questa pagina di Github. Attualmente, MECHA è in fase beta e, pertanto, è gratuitamente utilizzabile. In futuro, sarà necessaria una licenza per poter usarla.
 
 ## Download, aggiornamenti e feedback
 
@@ -125,11 +103,11 @@ Puoi scaricare **MECHA** dalla sezione *Releases* di questo repository, dove tro
 
 Se mentre lo utilizzi ti viene voglia di:
 
-- segnalare un problema;
-- proporre un nuovo tool;
-- suggerire un miglioramento dell'interfaccia o dei flussi;
+- segnalare un problema
+- proporre un nuovo tool
+- suggerire un miglioramento dell'interfaccia o di qualsivoglia natura
 
-puoi aprire una *issue* qui su GitHub o scrivermi direttamente.
+puoi aprire una *issue* qui su Github. 
 
 Il progetto cresce molto grazie all'uso reale e ai commenti di altri voi colleghi. Ogni feedback mi aiuta a capire meglio cosa funziona, cosa è superfluo e dove vale la pena investire tempo per rendere MECHA uno strumento piu utile e piacevole da usare nel lavoro quotidiano.
 
