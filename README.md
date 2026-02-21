@@ -1,117 +1,115 @@
-# MECHA
+# <img width="25" height="25" alt="MechaLogo" src="https://github.com/user-attachments/assets/6ed09457-a6a3-4573-8cb5-9cbedbbdda9e" /> MECHA
 
-## Cosa è MECHA
-MECHA è un software scritto in Python che mi aiuta nei calcoli quotidiani della mia professione da termotecnico. 
+**MECHA** è un software di supporto tecnico per termotecnici e progettisti HVAC, pensato per centralizzare in un unico ambiente tutti i calcoli e gli strumenti necessari al lavoro quotidiano.
 
-## Perchè ho creato MECHA
-Ho voluto accentrare in un unico ambiente tutti i fogli di calcoli, tool online, schede varie salvate in giro nel computer o trovate su internet.
+---
 
-L'ho pensato come uno strumento da tenere aperto mentre si lavora sui software più noti (per una distribuzione idronica o per la redazione di un P&ID) o mentre si scrive una relazione tecnica. 
+## Perché esiste MECHA
 
-Vuole essere un unico ambiente dove trovare tutte le formule e la teoria necessaria per sopravvivere nel mondo della termotecnica.
+Chi lavora nella termotecnica conosce bene la situazione: fogli di calcolo sparsi sul desktop, tool online segnati tra i preferiti, schede tecniche dimenticate in qualche cartella. MECHA nasce per risolvere esattamente questo problema.
 
-È un software che nasce da esigenze molto concrete in quanto io stesso lo utilizzo nel quotidiano. Pertanto, molte scelte grafiche e di interfaccia sono state effettuate cercando di rendere l'applicazione quanto più ergonomica possibile.
+L'applicazione è pensata per restare aperta in secondo piano mentre si lavora su altri software — durante la progettazione di una distribuzione idronica, la redazione di un P&ID o la scrittura di una relazione tecnica — e offrire in modo rapido formule, calcoli e teoria.
 
-Gli ambienti coperti da questo software sono: Fluidica, HVAC, Vapore e Condensa, Gas Compressi.
+Ogni scelta di interfaccia è stata guidata dall'uso reale: MECHA è un software che uso personalmente ogni giorno.
 
-Il software è ancora in beta e in fase attiva di programmazione.
+---
 
-### Dati tecnici modificabili
-L'applicazione si basa su librerie scritte in **JSON**. Queste sono ampiamente modificabili dall'utente sfruttando un editor di testo o direttamente il *tool* presente all'interno di **MECHA** che elimina la necessità di conoscere l'ortografia dei file **.JSON**. Le librerie, pertanto, possono essere editate, esportate, importate e condivise con gli altri utenti. 
+## Cosa puoi fare con MECHA
 
-In pratica ogni tecnico può costruirsi il proprio "set di lavoro" all'inizio e poi riutilizzarlo nei progetti successivi e condividere il set stesso con gli altri colleghi di lavoro.
+MECHA è organizzato in quattro moduli principali.
 
-### Teoria fisica e trasparenza dei calcoli
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/7684974c-2268-4184-a40e-93123a4aacde" />
 
-Da ingegnere, so benissimo la necessità morbosa di conoscere la fisica e la teoria alla base di ogni calcolo e formula (come anche i requisiti al contorno che la rendono valida).
+### 1. Fluidi
 
-L'obiettivo è che ogni applicativo presente in **MECHA** venga arricchito da teoria, esplicitando le formule usate e citando le fonti utilizzate (manuali di termodinamica, documenti tecnici e, dove ha senso, norme e standard).
+Tutto ciò che riguarda acqua, miscele acqua-glicole e fluidi in pressione:
 
-In questo modo è possibile usare l'applicazione con più coscienza e non come una scatola nera che fa magie.
+- Dimensionamento tubazioni (portata, velocità, perdita di carico, potenza)
+- Calcolo perdite di carico distribuite e concentrate
+- Computo metrico (tubazioni, isolamento, finitura esterna)
+- Dimensionamento organi di centrale (valvole di sicurezza, vasi di espansione, accumulatori, collettori)
 
-## I quattro moduli dell applicazione
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/f36142bd-6ff1-45bb-8c51-264c9197c12d" /> <img height="500" alt="image" src="https://github.com/user-attachments/assets/aaba5f0d-e59c-4d0c-86e9-4ffd5769d2af" />
 
-MECHA è organizzato in quattro moduli principali.  
-
-### 1. FLUIDICA
-
-In questo modulo ci sono tutti gli applicativi che riguardano il mondo dei fluidi (in particolare l'acqua e le sue miscele con glicole e sue varianti). 
-
-È possibile:
-
-- dimensionare tubazioni (in funzione di portata, velocità, perdita di carico, potenza);
-- calcolare le perdite di carico (distribuite e concentrate);
-- calcolare kV di valvole di regolazione degli skid di controllo;
-- effettaure computi metrici (per massa/lunghezza di tubazioni, per superficie di isolamento e finitura esterna);
-- dimensionare organi di centrale (valvole di sicurezza, accumuli, vasi di espansione, collettori...)
 
 ### 2. HVAC
 
-In questo modulo ci sono tutti gli applicativi che riguardano il mondo della ventilazione.
+Tutto ciò che riguarda la ventilazione e il trattamento dell'aria:
 
-È possibile:
+- Dimensionamento canali rettangolari e circolari (velocità e perdita di carico)
+- Computo metrico (lamiera, isolamento, finitura esterna)
+- Calcolo proprietà psicrometriche con diagramma interattivo
 
-- dimensionare canali (rettangolari e circolari) in funzione di velocità e perdita di carico;
-- effettuare computi metrici (per massa/superficie di lamiera, superficie di isolamento e finitura esterna);
-- calcolare proprietà psicrometriche e visualizzare i punti su un diagramma psicrometrico interattivo;
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/fbff1ae1-1f83-4fc8-b53a-a2d558d8d911" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/6a74ddba-2395-4e0b-85b9-07fdf5b2c3e9" />
 
-Sono in fase di sviluppo i seguenti applicativi:
+**In sviluppo:**
+- Diagramma di Mollier interattivo per calcoli psicrometrici
+- Dimensionamento unità di trattamento aria e redazione datasheet
+- Dimensionamento batterie di post-riscaldamento
 
-- effettuare calcoli psicrometrici tramite diagramma di Mollier interattivo;
-- dimensionare un'unità di trattamento aria e scrivere un suo datasheet da fornire al costruttore;
-- redigere un dataroom propedeutico al dimensionamento dell'unità di trattamento aria;
-- dimensionare le batterie di riscaldamento dell'aria;
+### 3. Vapore e Condensa *(in progettazione)*
 
-### 3. Vapore e condensa *[modulo in fase di progettazione]*
+- Dimensionamento tubazioni vapore e condensa
+- Calcolo vapore di flash e reti di recupero condensa
 
-In questo modulo ci sono tutti gli applicativi che riguardano il mondo del vapore e della condensa.
+### 4. Gas Compressi *(in progettazione)*
 
-Sarà possibile: 
+- Dimensionamento tubazioni e organi di linea
+- Calcolo carico condensa
 
-- dimensionare le tubazioni per il vapore e la condensa; 
-- dimensionare il vapore di flash e le reti di recupero condensa;
-- dimensionare gli organi di linea;
+---
 
-### 4. Gas Compressi *[modulo in fase di progettazione]*
+## Librerie dati personalizzabili
 
-In questo modulo ci sono tutti gli applicativi che riguardano il mondo dei gas compressi.
+MECHA si basa su librerie in formato **JSON**, modificabili direttamente dall'applicazione tramite un editor integrato — senza bisogno di conoscere la sintassi JSON.
 
-Sarà possibile:
+Ogni utente può costruire il proprio set di lavoro personalizzato, esportarlo, importarlo e condividerlo con i colleghi.
 
-- dimensionare le tubazioni;
-- dimensionare organi di linea;
-- dimensionare condensa;
-- dimensionare la FAD per la selezione dei compressori;
+---
 
-### 5. Ulteriori applicativi futuri
+## Trasparenza dei calcoli
 
-Essendo il programma in beta, i 4 moduli su riportati saranno arricchiti di ulteriori funzionalità. 
-Tra queste posso già elencare:
+MECHA non è una scatola nera. Ogni modulo riporta la teoria alla base dei calcoli, le formule utilizzate e le fonti di riferimento (manuali di termodinamica, documenti tecnici, norme e standard).
 
-- supporto multilingua (attualmente il software è in italiano ma la prossima lingua prioritaria sarà ovviamente l'inglese - ulteriori lingue seguiranno in funzione delle necessità);
-- supporto per più unità di misura (attualmente l'applicazione usa il Sistema Internazionale); 
-- aggiunta di funzionalità per l'esportazione di report in PDF o .RTF con personalizzazione da parte dei singoli studi tecnici (loghi aziendali, carta intestata, etc.); 
-- convertitore di unità di misura;
+L'obiettivo è poter usare lo strumento con piena consapevolezza di ciò che sta calcolando.
 
-## Acquisto, prova gratuita e sottoscrizione
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/d5f0d41c-c70d-4a37-adf0-bab97b2878ca" />
 
-L'applicazione può essere scaricata gratuitamente in questa pagina di Github. Attualmente, MECHA è in fase beta e, pertanto, è gratuitamente utilizzabile. In futuro, sarà necessaria una licenza per poter usarla.
+---
 
-## Download, aggiornamenti e feedback
+## Roadmap
 
-Puoi scaricare **MECHA** dalla sezione *Releases* di questo repository, dove trovi anche le note di rilascio con le novità di ogni versione.
+Tra le funzionalità in programma:
 
-Se mentre lo utilizzi ti viene voglia di:
+- Supporto multilingua (italiano già disponibile, inglese come prossima priorità)
+- Supporto per sistemi di unità di misura alternativi
+- Esportazione report in PDF o RTF con personalizzazione (logo aziendale, carta intestata)
+- Convertitore di unità di misura integrato
+
+---
+
+## Download e aggiornamenti
+
+MECHA può essere scaricato gratuitamente dalla sezione **Releases** di questo repository, dove sono disponibili anche le note di rilascio per ogni versione.
+
+> **Stato attuale:** MECHA è in fase beta e completamente gratuito. In futuro sarà richiesta una licenza per l'utilizzo.
+
+---
+
+## Feedback e contributi
+
+Se durante l'utilizzo vuoi:
 
 - segnalare un problema
-- proporre un nuovo tool
-- suggerire un miglioramento dell'interfaccia o di qualsivoglia natura
+- proporre un nuovo strumento
+- suggerire un miglioramento
 
-puoi aprire una *issue* qui su Github. 
+puoi aprire una **Issue** su GitHub oppure contattarmi su **LinkedIn**.
 
-Il progetto cresce molto grazie all'uso reale e ai commenti di altri voi colleghi. Ogni feedback mi aiuta a capire meglio cosa funziona, cosa è superfluo e dove vale la pena investire tempo per rendere MECHA uno strumento piu utile e piacevole da usare nel lavoro quotidiano.
+Il progetto cresce grazie all'uso reale e ai commenti di chi lo utilizza ogni giorno. Ogni feedback è prezioso.
 
-In ogni caso, mi raccomando: 
+---
 
-> Leave the world a little better than you found it. 
+> *Leave the world a little better than you found it.*
 [Baden Powell - fondatore dello scautismo]
