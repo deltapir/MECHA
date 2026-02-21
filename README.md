@@ -2,6 +2,19 @@
 
 **MECHA** è un software di supporto tecnico per termotecnici e progettisti HVAC, pensato per centralizzare in un unico ambiente tutti i calcoli e gli strumenti necessari al lavoro quotidiano.
 
+## Indice
+- [Perché esiste MECHA](#perché-esiste-mecha)
+- [Cosa puoi fare con MECHA](#cosa-puoi-fare-con-mecha)
+  - [Fluidi](#1-fluidi)
+  - [HVAC](#2-hvac)
+  - [Vapore e Condensa](#3-vapore-e-condensa-in-progettazione)
+  - [Gas Compressi](#4-gas-compressi-in-progettazione)
+- [Librerie dati personalizzabili](librerie-dati-personalizzabili)
+- [Trasparenza dei calcoli](trasparenza-dei-calcoli)
+- [Roadmap](roadmap)
+- [Download e aggiornamenti](download-e-aggiornamenti)
+- [Feedback e contributi](feedback-e-contributi)
+
 ---
 
 ## Perché esiste MECHA
