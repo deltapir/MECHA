@@ -7,7 +7,7 @@
 - [Cosa puoi fare con MECHA](#cosa-puoi-fare-con-mecha)
   - [Fluidi](#1-fluidi)
   - [HVAC](#2-hvac)
-  - [Vapore e Condensa](#3-vapore-e-condensa-in-progettazione)
+  - [Vapore e Condensa](#3-vapore-e-condensa)
   - [Gas Compressi](#4-gas-compressi-in-progettazione)
 - [Librerie dati personalizzabili](librerie-dati-personalizzabili)
 - [Trasparenza dei calcoli](trasparenza-dei-calcoli)
@@ -61,10 +61,12 @@ Tutto ciò che riguarda la ventilazione e il trattamento dell'aria:
 - Dimensionamento unità di trattamento aria e redazione datasheet
 - Dimensionamento batterie di post-riscaldamento
 
-### 3. Vapore e Condensa *(in progettazione)*
+### 3. Vapore e Condensa
 
-- Dimensionamento tubazioni vapore e condensa
-- Calcolo vapore di flash e reti di recupero condensa
+- Calcolo delle proprietà di base del vapore saturo
+- Dimensionamento tubazioni vapore e condensa *(in progettazione)*
+- Calcolo vapore di flash e reti di recupero condensa *(in progettazione)*
+<img width="362" height="382" alt="image" src="https://github.com/user-attachments/assets/5d0e35fb-ec2c-485d-b09b-0121f20be2d8" />
 
 ### 4. Gas Compressi *(in progettazione)*
 
