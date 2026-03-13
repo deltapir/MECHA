@@ -1,6 +1,6 @@
 # <img width="25" height="25" alt="MechaLogo" src="https://github.com/user-attachments/assets/6ed09457-a6a3-4573-8cb5-9cbedbbdda9e" /> MECHA
 
-**MECHA** è un software di supporto tecnico per termotecnici e progettisti HVAC, pensato per centralizzare in un unico ambiente tutti i calcoli e gli strumenti necessari al lavoro quotidiano.
+**MECHA** è un software per PC di supporto tecnico per termotecnici e progettisti HVAC, pensato per centralizzare in un unico ambiente tutti i calcoli e gli strumenti necessari al lavoro quotidiano.
 
 ## Indice
 - [Perché esiste MECHA](#perché-esiste-mecha)
