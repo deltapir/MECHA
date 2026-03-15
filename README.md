@@ -65,7 +65,7 @@ Tutto ciò che riguarda la ventilazione e il trattamento dell'aria:
 
 - Calcolo delle proprietà di base del vapore saturo
 - Dimensionamento tubazioni vapore e condensa
-- Calcolo vapore di flash e reti di recupero condensa *(in progettazione)*
+- Calcolo vapore di flash e reti di recupero condensa
 <img width="362" height="382" alt="image" src="https://github.com/user-attachments/assets/5d0e35fb-ec2c-485d-b09b-0121f20be2d8" />
 
 ### 4. Gas Compressi *(in progettazione)*
