@@ -1,0 +1,178 @@
+============================================================================
+         CONTRATTO DI LICENZA D'USO (EULA) - MECHA
+============================================================================
+
+Versione: 1.0 | Ultimo aggiornamento: [20/02/2026]
+
+============================================================================
+LICENZIANTE
+============================================================================
+
+Vincenzo Caccavale
+P.IVA: 04441240613
+Sede: San Prisco (CE)
+Email: psychro.mecha@outlook.it
+
+Installando o utilizzando MECHA, l'Utente dichiara di aver letto,
+compreso e accettato integralmente i termini del presente Contratto.
+
+============================================================================
+1. SOFTWARE IN FASE BETA
+============================================================================
+
+MECHA è attualmente distribuito in versione BETA gratuita. L'Utente
+riconosce e accetta che:
+
+a) Il Software potrebbe contenere errori, bug o imprecisioni nei
+   calcoli non ancora identificati o risolti.
+
+b) Le funzionalità e l'interfaccia possono essere modificate, aggiunte
+   o rimosse senza preavviso.
+
+c) Il Software è uno strumento di supporto al calcolo e non sostituisce
+   in alcun modo il giudizio professionale del tecnico abilitato, né
+   costituisce consulenza tecnica, progettuale o normativa. Il Software
+   non sostituisce verifiche normative, tecniche o di sicurezza
+   previste dalla legge e non garantisce la conformità a normative
+   nazionali o internazionali vigenti.
+
+d) I risultati dei calcoli prodotti dal Software devono essere SEMPRE
+   verificati dall'Utente prima di qualsiasi utilizzo professionale
+   o progettuale. Il Licenziante declina ogni responsabilità per
+   decisioni prese sulla base dei risultati del Software.
+
+e) Il Licenziante non garantisce che il Software sia sempre disponibile
+   o privo di interruzioni, né che eventuali errori vengano corretti.
+
+============================================================================
+2. LICENZA D'USO
+============================================================================
+
+Il Licenziante concede all'Utente una licenza personale, non esclusiva,
+non trasferibile e revocabile per l'utilizzo del Software ad uso
+interno, professionale o personale.
+
+L'Utente non può:
+a) Copiare, distribuire, modificare, decompilare o effettuare reverse
+   engineering del Software, salvo nei limiti inderogabilmente
+   consentiti dalla legge (D.Lgs. 518/1992 e Direttiva UE 2009/24/CE).
+b) Utilizzare il Software per fornire servizi a terzi, servizi SaaS o
+   metterlo a disposizione di terzi senza autorizzazione scritta del
+   Licenziante.
+
+============================================================================
+3. CONDIZIONI ECONOMICHE
+============================================================================
+
+MECHA è attualmente distribuito a titolo gratuito durante la fase beta.
+
+Il Licenziante si riserva il diritto di:
+a) Introdurre condizioni economiche a pagamento per l'utilizzo del
+   Software, in tutto o in parte, al termine della fase beta o in
+   qualsiasi momento successivo.
+b) Interrompere la distribuzione della versione beta in qualsiasi
+   momento.
+
+L'Utente sarà informato di eventuali modifiche alle condizioni
+economiche prima della loro entrata in vigore e potrà scegliere se
+accettare le nuove condizioni o cessare l'utilizzo del Software.
+
+L'Utente riconosce che la disponibilità gratuita della versione beta
+non genera alcun diritto alla permanenza di tale condizione nel tempo.
+
+============================================================================
+4. RACCOLTA DATI DI TELEMETRIA
+============================================================================
+
+Il Software raccoglie dati di telemetria in forma aggregata e anonima
+al solo fine di migliorare la qualità del Software. In particolare:
+
+DATI RACCOLTI:
+- Avvio e chiusura dell'applicazione
+- Durata della sessione
+- Moduli utilizzati (solo identificativo)
+- Segnalazioni anonime di errori
+- Versione del Software
+
+DATI MAI RACCOLTI:
+- Dati personali (nome, email, ecc.)
+- Chiavi di licenza o credenziali
+- Contenuto dei progetti o calcoli dell'Utente
+
+Il Software non registra né conserva l'indirizzo IP dell'Utente.
+
+I dati sono trattati in forma aggregata e anonima e non sono utilizzati
+per identificare l'Utente. I dati non vengono ceduti, venduti o
+condivisi con terze parti.
+
+Per domande sulla telemetria: vedere mail su riportata.
+
+============================================================================
+5. LIMITAZIONE DI RESPONSABILITÀ E MANLEVA
+============================================================================
+
+IL SOFTWARE È FORNITO "COSÌ COM'È" ("AS IS"), SENZA GARANZIE DI
+ALCUN TIPO, ESPRESSE O IMPLICITE.
+
+In nessun caso il Licenziante sarà responsabile, nei limiti massimi
+consentiti dalla legge, per danni diretti, indiretti o consequenziali derivanti dall'uso del Software, inclusi
+danni per perdita di dati, di profitti o errori nei calcoli.
+
+L'Utente utilizza il Software a proprio rischio e sotto la propria
+esclusiva responsabilità professionale.
+
+L'Utente si impegna a manlevare e tenere indenne il Licenziante da
+qualsiasi richiesta, danno, costo o pretesa di terzi, incluse spese
+legali, derivanti dall'utilizzo del Software in ambito professionale
+o progettuale.
+
+Resta esclusa ogni limitazione di responsabilità nei casi di dolo,
+colpa grave del Licenziante e nei casi di danni alla persona. Nulla
+nel presente Contratto pregiudica i diritti inderogabili previsti dal
+D.Lgs. 206/2005 (Codice del Consumo).
+
+============================================================================
+6. PROPRIETÀ INTELLETTUALE
+============================================================================
+
+Il Software è e rimane di proprietà esclusiva del Licenziante, protetto
+dalle leggi italiane (L. 633/1941) e internazionali sul diritto d'autore.
+Il presente Contratto concede unicamente un diritto d'uso, non
+trasferisce alcun diritto di proprietà.
+
+============================================================================
+7. AGGIORNAMENTI
+============================================================================
+
+Il Software può scaricare e installare aggiornamenti automatici
+finalizzati al miglioramento della sicurezza e delle funzionalità.
+Il presente Contratto si applica anche agli aggiornamenti, salvo che
+questi siano accompagnati da un nuovo contratto di licenza.
+
+============================================================================
+8. DISPOSIZIONI GENERALI
+============================================================================
+
+a) L'Utente può cessare l'utilizzo in qualsiasi momento disinstallando
+   il Software.
+
+b) Il Licenziante può revocare la licenza in caso di violazione del
+   presente Contratto.
+
+c) Il Licenziante si riserva il diritto di modificare il presente
+   Contratto, informando l'Utente tramite il Software. Le modifiche
+   entreranno in vigore dalla loro pubblicazione o dalla data indicata
+   nel Software.
+
+d) Il presente Contratto è regolato dalla legge italiana. Per qualsiasi
+   controversia sarà competente il Foro di Caserta,
+   fatto salvo il foro del consumatore ove applicabile.
+
+e) La nullità o inefficacia di una clausola non pregiudica la validità
+   delle restanti.
+
+============================================================================
+
+(C) 2026 - Vincenzo Caccavale - Tutti i diritti riservati.
+
+============================================================================
