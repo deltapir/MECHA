@@ -4,7 +4,7 @@
 
 ---
 
-For more information, please visit the [MECHA website](www.mechautilities.com).
+For more information, please visit the [MECHA Website](http://www.mechautilities.com).
 In addition, if you’d like to learn how to use MECHA, there are wikis available.
 
 ## Feedback and Contributions
