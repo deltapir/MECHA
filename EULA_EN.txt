@@ -1,0 +1,181 @@
+============================================================================
+         END USER LICENSE AGREEMENT (EULA) - MECHA
+============================================================================
+
+Version: 1.1 | Last updated: [08/11/2026]
+
+============================================================================
+LICENSOR
+============================================================================
+
+Vincenzo Caccavale
+VAT Number: 04441240613
+Registered office: San Prisco (CE), Italy
+Email: psychro.mecha@outlook.it
+
+By installing or using MECHA, the User declares to have read,
+understood and fully accepted the terms of this Agreement.
+
+============================================================================
+1. BETA SOFTWARE
+============================================================================
+
+MECHA is currently distributed as a free BETA version. The User
+acknowledges and accepts that:
+
+a) The Software may contain errors, bugs or inaccuracies in
+   calculations that have not yet been identified or resolved.
+
+b) Features and the user interface may be modified, added
+   or removed without prior notice.
+
+c) The Software is a calculation support tool and does not in any
+   way replace the professional judgment of a qualified technician,
+   nor does it constitute technical, design or regulatory advice.
+   The Software does not replace regulatory, technical or safety
+   verifications required by law and does not guarantee compliance
+   with applicable national or international standards.
+
+d) The results of calculations produced by the Software must
+   ALWAYS be verified by the User before any professional or
+   design use. The Licensor disclaims any liability for decisions
+   made based on the results produced by the Software.
+
+e) The Licensor does not guarantee that the Software will always
+   be available or uninterrupted, nor that any errors will be
+   corrected.
+
+============================================================================
+2. LICENSE GRANT
+============================================================================
+
+The Licensor grants the User a personal, non-exclusive,
+non-transferable and revocable license to use the Software for
+internal, professional or personal purposes.
+
+The User may not:
+a) Copy, distribute, modify, decompile or reverse engineer the
+   Software, except to the extent mandatorily permitted by law
+   (Legislative Decree 518/1992 and EU Directive 2009/24/EC).
+b) Use the Software to provide services to third parties, SaaS
+   services, or make it available to third parties without the
+   Licensor's prior written authorization.
+
+============================================================================
+3. PRICING AND COMMERCIAL CONDITIONS
+============================================================================
+
+MECHA is currently distributed free of charge during the beta phase.
+
+The Licensor reserves the right to:
+a) Introduce paid commercial conditions for the use of the Software,
+   in whole or in part, at the end of the beta phase or at any
+   subsequent time.
+b) Discontinue the distribution of the beta version at any time.
+
+The User will be informed of any changes to commercial conditions
+before they take effect and may choose whether to accept the new
+conditions or cease use of the Software.
+
+The User acknowledges that the free availability of the beta version
+does not give rise to any right to the continuation of such condition
+over time.
+
+============================================================================
+4. TELEMETRY DATA COLLECTION
+============================================================================
+
+The Software collects telemetry data in aggregated and anonymous form
+solely for the purpose of improving Software quality. In particular:
+
+DATA COLLECTED:
+- Application start and close events
+- Session duration
+- Modules used (identifier only)
+- Exported reports: number and originating module (never the content,
+  title, file name or report language)
+- Clicks on the update download button
+- Anonymous error reports
+- Software version
+
+DATA NEVER COLLECTED:
+- Personal data (name, email, etc.)
+- License keys or credentials
+- Content of the User's projects or calculations
+
+The Software does not record or store the User's IP address.
+
+Data is processed in aggregated and anonymous form and is not used to
+identify the User. Data is not sold, transferred or shared with
+third parties.
+
+For questions regarding telemetry: see the email address above.
+
+============================================================================
+5. LIMITATION OF LIABILITY AND INDEMNIFICATION
+============================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND,
+EXPRESS OR IMPLIED.
+
+In no event shall the Licensor be liable, to the maximum extent
+permitted by law, for any direct, indirect or consequential damages
+arising from the use of the Software, including damages for loss of
+data, loss of profits, or errors in calculations.
+
+The User uses the Software at their own risk and under their own
+exclusive professional responsibility.
+
+The User agrees to indemnify and hold harmless the Licensor from any
+claim, damage, cost or demand by third parties, including legal
+expenses, arising from the use of the Software in a professional or
+design context.
+
+The foregoing limitations of liability shall not apply in cases of
+willful misconduct or gross negligence on the part of the Licensor,
+or in cases of personal injury. Nothing in this Agreement affects any
+non-waivable rights under Legislative Decree 206/2005 (Consumer Code).
+
+============================================================================
+6. INTELLECTUAL PROPERTY
+============================================================================
+
+The Software is and remains the exclusive property of the Licensor,
+protected by Italian law (Law 633/1941) and international copyright
+law. This Agreement grants a right of use only and does not transfer
+any ownership rights.
+
+============================================================================
+7. UPDATES
+============================================================================
+
+The Software may download and install automatic updates intended to
+improve security and functionality. This Agreement also applies to
+updates, unless they are accompanied by a new license agreement.
+
+============================================================================
+8. GENERAL PROVISIONS
+============================================================================
+
+a) The User may cease use at any time by uninstalling the Software.
+
+b) The Licensor may revoke the license in the event of a breach of
+   this Agreement.
+
+c) The Licensor reserves the right to modify this Agreement, notifying
+   the User through the Software. Modifications will take effect upon
+   their publication or on the date indicated within the Software.
+
+d) This Agreement is governed by Italian law. Any dispute shall fall
+   under the jurisdiction of the Court of Caserta, without prejudice
+   to the consumer's right to bring proceedings before their local
+   court where applicable.
+
+e) The invalidity or unenforceability of any provision does not affect
+   the validity of the remaining provisions.
+
+============================================================================
+
+(C) 2026 - Vincenzo Caccavale - All rights reserved.
+
+============================================================================

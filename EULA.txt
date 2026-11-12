@@ -2,7 +2,7 @@
          CONTRATTO DI LICENZA D'USO (EULA) - MECHA
 ============================================================================
 
-Versione: 1.0 | Ultimo aggiornamento: [20/02/2026]
+Versione: 1.1 | Ultimo aggiornamento: [08/11/2026]
 
 ============================================================================
 LICENZIANTE
@@ -91,6 +91,9 @@ DATI RACCOLTI:
 - Avvio e chiusura dell'applicazione
 - Durata della sessione
 - Moduli utilizzati (solo identificativo)
+- Report esportati: numero e modulo di provenienza (mai il contenuto,
+  il titolo, il nome del file o la lingua del report)
+- Clic sul pulsante di download degli aggiornamenti
 - Segnalazioni anonime di errori
 - Versione del Software
 
